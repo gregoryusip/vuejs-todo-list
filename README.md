@@ -1,5 +1,7 @@
 # todolist-app
 
+Live Staging: https://vuejs-todo-list-xi.vercel.app/
+
 ## Project setup
 ```
 npm install
